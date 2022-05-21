@@ -1,16 +1,20 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://penny.moe" target="_blank"><img alt="Main Website" src="https://img.shields.io/website?label=penny.moe&style=for-the-badge&url=https%3A%2F%2Fpenny.moe" /></a>
+  <a href="https://discord.com/users/875251523641294869" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=Penny&message=%239538&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a>
+  <img src="https://img.shields.io/static/v1?label=Pronouns&message=she/her&color=E6A1FF&style=for-the-badge" />
+</p>
 
-<!--
-**PennyBunny/PennyBunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Haiiii, I'm Penny!!
 
-Here are some ideas to get you started:
+> - Pronouns: She/her
+> - Bad programmer
+> - Currently learning C# and Go
+> - Website: https://penny.moe/
+> - VRC profile: https://vrc.penny.moe/
+> - Best girl: https://i.penny.moe/a/bestgirl
+> - Currently working on my own Open Source SteamVR Oerlay in Unity
+> - Not cute™ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img alt="" src="https://komarev.com/ghpvc/?username=mintlily&color=brightgreen&style=flat-square" />
+  </p>
