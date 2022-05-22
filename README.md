@@ -12,7 +12,7 @@
 > - Website: https://penny.moe/
 > - VRC profile: https://vrc.penny.moe/
 > - Best girl: https://i.penny.moe/a/bestgirl
-> - Currently working on my own Open Source SteamVR Oerlay in Unity
+> - Currently working on my own Open Source SteamVR Overlay in Unity
 > - Not cute™ 
 
 <p align="center">
