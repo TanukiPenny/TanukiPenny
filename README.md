@@ -16,5 +16,5 @@
 > - Not cute™ 
 
 <p align="center">
-    <img alt="" src="https://komarev.com/ghpvc/?username=mintlily&color=brightgreen&style=flat-square" />
+    <img alt="" src="https://komarev.com/ghpvc/?username=pennybunny&color=brightgreen&style=flat-square" />
   </p>
