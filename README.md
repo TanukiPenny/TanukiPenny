@@ -13,7 +13,7 @@
 > - VRC profile: https://vrc.penny.moe/
 > - Best girl: https://i.penny.moe/a/bestgirl
 > - Currently working on my own Open Source SteamVR Overlay in Unity
-> - Not cute™ 
+> - Extremely cute™ 
 
 <p align="center">
     <img alt="" src="https://komarev.com/ghpvc/?username=pennybunny&color=brightgreen&style=flat-square" />
