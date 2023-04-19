@@ -7,7 +7,6 @@
 ### Haiiii, I'm Penny!!
 
 > - Pronouns: She/her
-> - Bad programmer
 > - Currently learning C# and Go
 > - Website: https://penny.moe/
 > - Best girl: https://i.penny.moe/a/bestgirl
