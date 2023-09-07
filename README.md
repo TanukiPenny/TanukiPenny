@@ -1,7 +1,7 @@
 ### Haiiii, I'm Penny!!
 
 > - Pronouns: She/her
-> - Currently attending university for game development 
+> - Currently attending university for computer science
 > - Not cute™ 
 
 <p align="center">
