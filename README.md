@@ -1,9 +1,9 @@
 ### Haiiii, I'm Penny!!
 
 - Pronouns: She/her
-- Currently attending Southern New Hampshire University for Computer Science 
-- Unity modder
+- Currently attending Southern New Hampshire University for Computer Science
 
-<p align="center">
-    <img alt="" src="https://komarev.com/ghpvc/?username=tanukipenny&color=brightgreen&style=flat-square" />
-</p>
+### Projects I ahve worked on not on github
+
+- Makise-Rebuild: Moderation bot for Alpha Blend Interactive's discord server
+- [The Vedmid](https://endimyonn.itch.io/the-vedmid): 48h game jam project, won first place
